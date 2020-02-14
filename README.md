@@ -18,4 +18,4 @@ This package is also dependent on:
 Usage probably doesn't need much explanation.  
     
 ### In the case of issues, or any enhancemets, post to the [Issues page](https://github.com/CuBeRJAN3/wpa_wrapper-final/issues)  
-_Copyright (c) 2019; CuBeRJAN3_
+_Copyright (c) 2020; CuBeRJAN3_
