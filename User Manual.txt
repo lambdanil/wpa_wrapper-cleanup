@@ -1,0 +1,2 @@
+To install: make install
+To remove: make remove
