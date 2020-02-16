@@ -3,7 +3,7 @@ WPA Supplicant wrapper for GNU+Linux and the BSD's
 
 # Instructions
 ## Install instructions
-    make install -- install
+    make DESTDIR=/ install -- install
     make remove -- remove
    
 ## Usage
