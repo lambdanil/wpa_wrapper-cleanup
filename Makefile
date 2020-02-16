@@ -1,5 +1,5 @@
-D=$DESTDIR
-install:
+D="$DESTDIR"
+istall:
 	mkdir -p "$D"/usr/share/wpa_wrapper/
 	mkdir -p "$D"/usr/share/wpa_wrapper/networks/
 	mkdir -p "$D"/usr/share/wpa_wrapper/conf/
