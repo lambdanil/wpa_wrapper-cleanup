@@ -3,8 +3,8 @@ WPA Supplicant wrapper for GNU+Linux and the BSD's
 
 # Instructions
 ## Install instructions
-    make DESTDIR=/ install -- install
-    make DESTDIR=/ remove -- remove
+    make install -- install
+    make remove -- remove
    
 ## Usage
      wpa_wrapper -- main program
