@@ -4,7 +4,7 @@ WPA Supplicant wrapper for GNU+Linux and the BSD's
 # Instructions
 ## Install instructions
     make DESTDIR=/ install -- install
-    make remove -- remove
+    make DESTDIR=/ remove -- remove
    
 ## Usage
      wpa_wrapper -- main program
