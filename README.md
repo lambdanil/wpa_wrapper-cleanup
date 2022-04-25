@@ -18,4 +18,3 @@ This package is also dependent on:
 Usage probably doesn't need much explanation.  
     
 ### In the case of issues, or any enhancemets, post to the [Issues page](https://github.com/CuBeRJAN/wpa_wrapper-cleanup/issues)  
-_Copyright (c) 2020; CuBeRJAN3_
